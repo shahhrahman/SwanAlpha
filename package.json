@@ -1,0 +1,26 @@
+{
+  "name": "swanalpha",
+  "version": "1.0.0",
+  "description": "A realtime multiplayer online game, built on top of Node.js, Phaser.js & Socket.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahhrahman/SwanAlpha.git"
+  },
+  "keywords": [
+    "Swan",
+    "Phaser.js",
+    "Node.js",
+    "Express",
+    "cors"
+  ],
+  "author": "Shah Habibur Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shahhrahman/SwanAlpha/issues"
+  },
+  "homepage": "https://github.com/shahhrahman/SwanAlpha#readme"
+}
