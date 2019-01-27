@@ -1,16 +1,16 @@
-#SwanAlpha
+# SwanAlpha
 
 Navigate your swan in cold, dark waters. 
-[Play with your friends on Heroku!] (https://swanalpha.herokuapp.com/)
+[Play with your friends on Heroku!](https://swanalpha.herokuapp.com/)
 To test it around, you may open the application on two or more tabs and fiddle with multiple swans.
 
-#Controls: 
+# Controls: 
 ← A
 → D
 ↑ W
 ↓ S
 
-#Run it locally.
+# Run it locally.
 ```bash
 # Install npm packages
 npm i
